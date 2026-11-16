@@ -1,0 +1,3 @@
+Shapiro-Wilk: estadistico=0.841036, p=0.000000
+Levene (mediana): estadistico=5.584254, p=0.000012
+Estos diagnosticos se interpretan como revisiones aproximadas de normalidad y homogeneidad.

@@ -1,0 +1,14 @@
+Tarea 3 - Diseno factorial 3 x 3
+Semilla para r: 444
+r: 0.308894658743
+Semilla de instancias: 2026
+Temperatura minima: 0.1
+Temperatura maxima: 1.0
+Fracciones del rango: [0.09266839762288635, 0.39266839762288636, 0.6926683976228863]
+Temperaturas T0: [0.18340155786059772, 0.45340155786059777, 0.7234015578605977]
+Temperatura final: 0.001
+Iteraciones por corrida: 200
+Replicas por celda: 10
+Semillas independientes por ejecucion: si
+Total de corridas: 90
+Tiempo total (s): 0.686
